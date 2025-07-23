@@ -6,6 +6,7 @@ import { WebView } from 'react-native-webview';
 let BlueApp = require('../../BlueApp');
 let loc = require('../../loc');
 
+
 export default class BuyBitcoin extends Component {
   static navigationOptions = ({ navigation }) => ({
     ...BlueNavigationStyle(navigation, true),
