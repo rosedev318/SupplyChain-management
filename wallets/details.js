@@ -1,4 +1,5 @@
 /* global alert */
+
 import React, { Component } from 'react';
 import {
   ActivityIndicator,
